@@ -1,0 +1,8 @@
+body { background: #d6ba00; margin: 0; font-family: sans-serif; }
+.cloud-dashboard { padding: 37px; display: flex; }
+.block-logger-0 { color: #6b55a4; font-size: 18px; margin-bottom: 5px; }
+.block-logger-1 { color: #1ab8e7; font-size: 17px; margin-bottom: 5px; }
+.block-cache-2 { color: #f40e4a; font-size: 13px; margin-bottom: 5px; }
+.block-uploader-3 { color: #9414f2; font-size: 15px; margin-bottom: 5px; }
+.block-logger-4 { color: #e81886; font-size: 19px; margin-bottom: 5px; }
+.block-database-5 { color: #867f92; font-size: 19px; margin-bottom: 5px; }
